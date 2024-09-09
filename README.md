@@ -7,7 +7,7 @@ Sou um estudante de software apaixonado por tecnologia e inovação. mas ainda t
 - 🔭 Atualmente estou Estudando em Oscarlina De Araujo Oliveira- (http://www.educacao.sp.gov.br/cgrh/escolas/oscarlina-de-araujo-oliveira-professora/).
 - 🌱 Estou aprendendo [Tecnologia e Robotica!🤖 ].
 - 👯 Procuro colaborar em desafios interessantes.
-- 📫 Como me encontrar: [Seu Email](mailt).
+- 📫 Como me encontrar: [pedro7965765@gmail.com](mailt).
 - fun fact ⚡ []
 ## 🛠️ Habilidades
 
