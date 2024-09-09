@@ -1,8 +1,8 @@
-# Olá! Eu sou [] 👋
+# Olá! Eu sou Pedro Henrique 👋
 
 
 ## Sobre mim
-Sou um estudante de software apaixonado por tecnologia e inovação. mas ainda tenho poucas esperienxias com programaçao| (muda essa parte) 
+Sou um estudante de software apaixonado por tecnologia e inovação. mas ainda tenho poucas experiências com programaçao|
 
 - 🔭 Atualmente estou Estudando em Oscarlina De Araujo Oliveira- (http://www.educacao.sp.gov.br/cgrh/escolas/oscarlina-de-araujo-oliveira-professora/).
 - 🌱 Estou aprendendo [Tecnologia e Robotica!🤖 ].
